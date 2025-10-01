@@ -5,7 +5,7 @@
 # How to Run the Code
 1. Download the `convexhull.py` script
 2. Run the script from the command line with `python path/to/file/convexhull.py`, a new window should open
-3. Click `Plot Random Points` to generate a series of 50 points, or create your own points by clicking, or perform a combination of the two options
+3. Click `Plot Random Points` to generate a series of 50 points, or create your own points by clicking, or perform a combination of the two options. Re-clicking a point will remove it from the set. 
 4. Click `Computer Convex Hull (Gift Wrapping)` when ready
 
 # How does the code work?
